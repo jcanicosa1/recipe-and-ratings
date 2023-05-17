@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: What is the relationship between the cooking time and average rating of recipes?
+description: Based on 2 provided datasets, can we draw conclusions to see if the cook time of a recipe effect the average rating of recipes?
